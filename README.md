@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Web Dev ,Web Series.....**
 
-- 📫 How to reach me **artist78887@gmail.com**
+- 📫 How to reach me **akashkr.tech@gmail.com**
 
 - ⚡ Fun fact **I started coding because I wanted to cheat in a browser game.**
 
