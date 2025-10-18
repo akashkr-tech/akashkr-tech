@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashkr-tech&label=Profile%20views&color=0e75b6&style=flat" alt="akashkr-tech" /> </p>
 
-- 🔭 I’m currently working on **Personal Ai Assistant**
+- 🔭 I’m currently working on **Food Delivery App**
 
 - 🌱 I’m currently learning **MERN Stack**
 
